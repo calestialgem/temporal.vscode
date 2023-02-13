@@ -1,13 +1,12 @@
-# README
-## This is the README for your extension "temporal"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Temporal
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
+A minimal dark theme with blue, red and gray. Tested for C, Java, JSON, YAML and
+Markdown.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![C](https://raw.githubusercontent.com/calestialgem/temporal.vscode/main/ss0.png "C Language")
+
+![Java](https://raw.githubusercontent.com/calestialgem/temporal.vscode/main/ss1.png "Java")
+
+_Font: Fira Code_
 
 **Enjoy!**
