@@ -1,8 +1,10 @@
 {
   "name": "Temporal",
   "colors": {
-    "editor.background": "#1C1F20",
-    "editor.foreground": "#C8C3BC"
+    "editor.foreground": "#C8C3BC",
+    "editorBracketHighlight.foreground1": "#C8C3BC",
+    "editorBracketHighlight.foreground2": "#C8C3BC",
+    "editorBracketHighlight.foreground3": "#C8C3BC"
   },
   "tokenColors": [
     {
