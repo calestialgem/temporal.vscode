@@ -1,21 +1,38 @@
 {
-    "name": "temporal",
-    "displayName": "Temporal",
-    "description": "Dance of red and blue above grey.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.75.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Temporal",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Temporal-color-theme.json"
-            }
-        ]
-    }
+  "name": "temporal-theme",
+  "displayName": "Temporal Theme",
+  "description": "Dance of red and blue above grey.",
+  "version": "0.0.1",
+  "author": {
+    "email": "gecgelcem@outlook.com",
+    "name": "Cem Geçgel",
+    "url": "https://github.com/calestialgem"
+  },
+  "bugs": {
+    "url": "https://github.com/calestialgem/temporal.vscode/issues"
+  },
+  "homepage": "https://github.com/calestialgem/temporal.vscode",
+  "license": "GPL-3.0-or-later",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calestialgem/temporal.vscode"
+  },
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "publisher": "calestialgem",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Temporal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Temporal-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {}
 }
