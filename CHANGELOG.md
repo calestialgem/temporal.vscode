@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.5]
+
+- Updated screenshots.
+
 ## [0.0.4]
 
 - Fixed changelog.
