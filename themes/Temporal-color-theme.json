@@ -70,14 +70,14 @@
     {
       "scope": ["constant", "support.constant"],
       "settings": {
-        "foreground": "#F1F1F1",
+        "foreground": "#FF6161",
         "fontStyle": ""
       }
     },
     {
       "scope": "string",
       "settings": {
-        "foreground": "#C8C3BC",
+        "foreground": "#E4E1DE",
         "fontStyle": ""
       }
     },
