@@ -1,6 +1,10 @@
 # Change Log
 
-## [0.0.2]
+## [0.0.4]
+
+- Fixed changelog.
+
+## [0.0.3]
 
 - Colored constants.
 - Even brighter strings.
