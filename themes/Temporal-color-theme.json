@@ -68,9 +68,9 @@
       }
     },
     {
-      "scope": ["constant", "support.constant"],
+      "scope": ["keyword.operator", "constant", "support.constant"],
       "settings": {
-        "foreground": "#FF6161",
+        "foreground": "#F1F1F1",
         "fontStyle": ""
       }
     },
@@ -125,7 +125,7 @@
     {
       "scope": "markup.inline.raw",
       "settings": {
-        "foreground": "#72FFFF",
+        "foreground": "#E4E1DE",
         "fontStyle": ""
       }
     },

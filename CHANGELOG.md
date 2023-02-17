@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.0.6]
+
+- Color operators same as constants.
+- Change constant color to white.
+- Fix markup inlined raw strings.
+
 ## [0.0.5]
 
 - Updated screenshots.
